@@ -55,5 +55,6 @@ The specific software parts to be tested:
 
 ## 8. Test Deliverables
 * Master Software Test Plan (`test_plan/`)
+* Test Scenarios (`test_scenarios/`)
 * Detailed Test Case Sheets (`test_cases/`)
 * Issue Tracker Log (`bug_reports/`)
