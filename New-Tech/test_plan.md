@@ -54,7 +54,7 @@ The specific software parts to be tested:
 * **Allowed Defect Margin:** A maximum of 5% of test cases may remain failed *only* if the underlying bugs are classified as **Minor** and documented in the active issue log for a future patch.
 
 ## 8. Test Deliverables
-* Master Software Test Plan (`test_plan/`)
-* Test Scenarios (`test_scenarios/`)
-* Detailed Test Case Sheets (`test_cases/`)
-* Issue Tracker Log (`bug_reports/`)
+* Master Software Test Plan [test_plan.md](./test_plan.md)
+* Test Scenarios [test-scenarios](./test_scenarios)
+* Detailed Test Case Sheets [test_cases](./test_cases)
+* Issue Tracker Log [bug_reports](./bug_reports)
