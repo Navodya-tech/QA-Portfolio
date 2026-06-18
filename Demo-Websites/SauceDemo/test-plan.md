@@ -32,7 +32,7 @@ Application URL: https://www.saucedemo.com/
 ---
 
 ### ❌ Out of Scope:
-- Backend testing
+- Backend/API testing
 - Database validation
 - Performance testing
 - Security testing
@@ -44,12 +44,14 @@ Application URL: https://www.saucedemo.com/
 - Smoke Testing
 - Functional Testing
 - UI Testing
+- End-to-End Testing
+- Negative Testing
 
 ---
 
 ## Entry Criteria
-- Application is accessible
-- Internet connection available
+- The testing environment URL is fully accessible.
+- Test cases are prepared and ready for execution tracking.
 
 ---
 
