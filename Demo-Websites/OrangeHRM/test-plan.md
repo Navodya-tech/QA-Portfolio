@@ -70,6 +70,23 @@ The following testing techniques will be used:
   - Screenshots as evidence
   - Jira ticket ID reference
 
+    ### 🐞 Logged Bugs in Jira:
+
+- SCRUM-9 → Login page username is case insensitive  
+  https://navodya-qa-testing.atlassian.net/browse/SCRUM-9  
+
+- SCRUM-10 → Account lockout not triggered after multiple failed login attempts  
+  https://navodya-qa-testing.atlassian.net/browse/SCRUM-10  
+
+- SCRUM-12 → Forgot password accepts invalid username  
+  https://navodya-qa-testing.atlassian.net/browse/SCRUM-12  
+
+- SCRUM-13 → My Info accepts numeric values in First Name and Last Name fields  
+  https://navodya-qa-testing.atlassian.net/browse/SCRUM-13  
+
+- SCRUM-16 → Performance tracker accepts special characters in Tracker Name  
+  https://navodya-qa-testing.atlassian.net/browse/SCRUM-16
+
 ---
 
 ## Entry Criteria
