@@ -11,7 +11,7 @@ Tester: Navodya
 ## Test Environment
 
 - Browser: Google Chrome  
-- Version: 149.0.7827.115 (Official Build) (64-bit) 
+- Version: 149.0.7827.156 (64-bit)
 - Device: Desktop / Laptop  
 - OS: Windows 10  
 - Environment: Public Demo Site  
@@ -59,7 +59,7 @@ The following testing techniques will be used:
 
 ## Test Management & Bug Tracking
 
-- Test cases will be documented in Excel
+- Test scenarios & cases will be documented in Excel
 - Test execution results will be tracked in Excel
 - Defects will be logged and managed in **Jira**
 - Each bug will include:
