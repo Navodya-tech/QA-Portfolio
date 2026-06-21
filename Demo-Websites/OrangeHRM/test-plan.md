@@ -70,7 +70,7 @@ The following testing techniques will be used:
   - Screenshots as evidence
   - Jira ticket ID reference
 
-    ### 🐞 Logged Bugs in Jira:
+ ### 🐞 Logged Bugs in Jira:
 
 - SCRUM-9 → Login page username is case insensitive  
   https://navodya-qa-testing.atlassian.net/browse/SCRUM-9  
